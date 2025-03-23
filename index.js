@@ -7,5 +7,5 @@ console.log("5. Push to GitHub: git push -u origin main");
 console.log("✅ Your repo is now set up and connected to GitHub!");
 
 
-console.log("object")
+console.log("anjali jaiswal ")
 
